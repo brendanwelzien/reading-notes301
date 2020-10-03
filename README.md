@@ -1,5 +1,10 @@
 # reading-notes301
-Essential readings for course 301.
+Essential readings for course **301**.
+
+## Code 102 - Intro to Software Development
+## Code 201 - Foundations of Software Development
+## *Code 301 - Intermediate Software Development*
+## Code 401 - Advanced Software Development
 
 ## About Me
 I am a student for Code Fellows and on track to becoming a software developer. I am set to finish the program in January 2021 with specialization in Python.
