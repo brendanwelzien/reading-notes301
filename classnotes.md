@@ -21,3 +21,14 @@ layout: structural elements
 
 - media queries
 
+# Promises
+*resolved*
+    .then()
+
+*pending*
+- the midpoint state before it is either resolved or rejected
+
+*rejected*
+    .catch()
+    
+
