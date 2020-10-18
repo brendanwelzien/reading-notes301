@@ -54,3 +54,6 @@
 - this wraps everything so we can use it in the html
     - ejs-tag body ejs-tag
 [<=Back](README.md)
+
+<-- This is my practice pitch for interviews -->
+Hi, my name is Brendan Welzien and I was born and raised here in Seattle, Washington. As a recent graduate from the University of Washington, I up until recently was looking for a career in the public health field. This is due to my previous experience working with community stakeholders, including expanding rooftop farms across the Seattle Metropolitan area, assisting food shelters, and working in the restaurant industry. I then shifted my focus into technology as I realized I could leverage not only my life, but others too with software development. This stems from my goal of finding a career that suits my background in public health and in technology. So, I hope to use my knowledge in software development to create applications that promote the general welfare of my communities and those beyond.
